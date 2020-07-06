@@ -5,5 +5,5 @@ The purpose of this project is to wrangle data from the WeRateDogs twitter archi
 
 This project contains three files:
 1) A jupyter notebook containing the code for the data wrangling and cleaning process
-2) A file reporting on the data wrangling process
-3) A report containing visualizations and insights into the cleaned data
+2) A html file reporting on the data wrangling process
+3) A html report containing visualizations and insights into the cleaned data
